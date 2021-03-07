@@ -5,7 +5,10 @@ import {} from 'react'
 function Home(){
 
 
-	return <div>Home 2</div>
+	return 
+	<div>Habitoos está no ar, Gratidão Universo</div>
+
+
 
 	}
 
