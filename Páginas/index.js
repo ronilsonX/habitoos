@@ -6,7 +6,7 @@ function Home(){
 <div>
 
 
-<h1>Habitoos está no ar, Gratidão Universo</h1>
+<h1>Hábitoos agora está no ar, Gratidão Universo.</h1>
 <Contador/>
 </div>
 
